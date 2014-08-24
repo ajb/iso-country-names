@@ -1,0 +1,14 @@
+{
+  "name": "iso-country-names",
+  "main": "index.js",
+  "version": "0.0.1",
+  "authors": [
+    "ajb <ad@mbecker.cc>"
+  ],
+  "description": "Javascript object of ISO country names and codes.",
+  "keywords": [
+    "country",
+    "names"
+  ],
+  "license": "MIT"
+}
