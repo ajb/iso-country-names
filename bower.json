@@ -1,11 +1,11 @@
 {
   "name": "iso-country-names",
   "main": "index.js",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "authors": [
     "ajb <ad@mbecker.cc>"
   ],
-  "description": "Javascript object of ISO country names and codes.",
+  "description": "Javascript object of ISO 3166-1 country names and codes.",
   "keywords": [
     "country",
     "names"
